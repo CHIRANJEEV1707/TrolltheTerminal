@@ -1,0 +1,3 @@
+Okay okay... here you go:
+
+FLAG{this_was_too_much_for_30mins}
